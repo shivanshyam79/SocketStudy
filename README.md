@@ -1,6 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-## NAME:A joans jay authers
-## REG NO:212221240019
+## NAME:shyam R
+## REG NO:212223040200
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
