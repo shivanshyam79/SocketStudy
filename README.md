@@ -80,9 +80,11 @@ s.send("acknowledgement received from the server".encode())
 ```
 ## OUTPUT:
 ## CLIENT:
-## "C:\Users\admin\Pictures\Screenshots\Screenshot 2024-09-18 143916.png"
+![Screenshot 2024-09-18 143916](https://github.com/user-attachments/assets/57c01503-2ac4-43bb-ac17-8999cda3bdc0)
+
 ## SERVER:
-## "C:\Users\admin\Pictures\Screenshots\Screenshot 2024-09-18 143916.png"
+![Screenshot 2024-09-18 143916](https://github.com/user-attachments/assets/c5ab10e3-9265-43fd-9ca4-3386119533b2)
+
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
