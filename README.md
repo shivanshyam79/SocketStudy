@@ -83,8 +83,7 @@ s.send("acknowledgement received from the server".encode())
 ![Screenshot 2024-09-18 143916](https://github.com/user-attachments/assets/57c01503-2ac4-43bb-ac17-8999cda3bdc0)
 
 ## SERVER:
-![Screenshot 2024-09-18 143916](https://github.com/user-attachments/assets/c5ab10e3-9265-43fd-9ca4-3386119533b2)
-
+![Screenshot 2024-09-18 143935](https://github.com/user-attachments/assets/08ce6dff-d8c6-4815-b0eb-ee3e84ef2b8b)
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
